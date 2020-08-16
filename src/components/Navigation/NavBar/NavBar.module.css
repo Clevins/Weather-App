@@ -1,0 +1,17 @@
+.NavBar {
+  background-color: #0B25E5;
+  font: "Roboto";
+  font-size: 17px;
+}
+
+.NavLink {
+  color: rgba(255,255,255,.8)!important;
+}
+
+.NavLink:hover {
+  color: rgba(255,255,255,1)!important;
+}
+
+.NavLink:active {
+  color: rgba(255,255,255,1)!important;
+}

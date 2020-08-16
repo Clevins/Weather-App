@@ -1,0 +1,14 @@
+.AddMsg {
+  height: 100px;
+  width: 75%;
+  background-color: #FFFF;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid rgb(0,0,0, .3);
+}
+
+.AddMsg h3 {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 25px;
+}
