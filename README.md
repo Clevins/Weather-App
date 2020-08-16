@@ -1,13 +1,41 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+Website built with [React](https://reactjs.org/) and [Open Weather Map API](https://openweathermap.org/) that displays the weather at the user's location and allows the user to compare the weather at other locations. The weather on the site is updated every 10 seconds.
 
-### `npm start`
+## Run Instructions
+Follow these steps to run the project in a  development mode on the local enviroment.
+### Step 1:
+Open the Command Prompt and navigate to where the project will be located.
+Run the following command to Login to GitHub and download the project.
+Have to be a contributor to the project. 
+```
+git clone https://github.com/Clevins/Weather-App.git
+```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Step 2: 
+Navigate into the project folder with the following command.
+```
+cd Weather-App
+```
+### Step 3: 
+Install Bootstap with the following command.
+```
+npm install bootstrap
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Step 4:
+Install remaining nom modules with the following command.
+```
+npm install
+```
+
+### Step 5:
+Start the development server with the following command.
+```
+npm start
+```
+
+### Step 6:
+That will open the project in the browser. The default URL is http://localhost:3000/
+Once the site loads allow the browser to access the **Location Permissions**
