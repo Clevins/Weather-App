@@ -4,7 +4,7 @@
 Website built with [React](https://reactjs.org/) and [Open Weather Map API](https://openweathermap.org/) that displays the weather at the user's location and allows the user to compare the weather at other locations. The weather on the site is updated every 10 seconds.
 
 ## Run Instructions
-Follow these steps to run the project in a  development mode on the local enviroment.
+Follow these steps to run the project in a  development mode on the local environment.
 ### Step 1:
 Open the Command Prompt and navigate to where the project will be located.
 Run the following command to Login to GitHub and download the project.
